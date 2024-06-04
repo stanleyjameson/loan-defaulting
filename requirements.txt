@@ -1,0 +1,5 @@
+streamlit_option_menu
+gunicorn==19.7.1
+scikit-learn
+numpy
+pandas
